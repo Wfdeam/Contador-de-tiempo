@@ -13,12 +13,5 @@ Este script está diseñado para realizar el conteo de tiempo de las tareas. Pue
 
 Para ejecutar el script, necesitas tener instalado:
 
-- Python 3.x
-
-## Uso
-
-1. Clona este repositorio a tu computadora:
-
-   ```shell
-   git clone https://github.com/tu-usuario/contador-de-tiempo-de-tareas.git
+- Python
 
